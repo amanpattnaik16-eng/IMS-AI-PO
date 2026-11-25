@@ -1,6 +1,7 @@
 # IMS-AI | CAD Modelling Portfolio
 
-**Name:** Aman Patnaik
+**Name:** Aman Patnaik  
+**Registration Number:** 2302110041
 
 This repository showcases two parametric CAD models developed using Python and CadQuery. The models were exported in STL format, and their final geometries were captured for visual documentation.
 
